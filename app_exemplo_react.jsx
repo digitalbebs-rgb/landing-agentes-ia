@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Bot, Brain, MessageCircle, BarChart3, Sparkles, CheckCircle2, ArrowRight, Building2, Rocket, ShieldCheck, Clock3, Star, Phone } from "lucide-react";
 
-const whatsappLink = "https://wa.me/5599999999999";
+const whatsappLink = "https://wa.me/5554992105010";
 
 const plans = [
   { name: "Start", price: "R$ 999", desc: "Ideal para pequenos negócios", items: ["1 agente IA", "Integração básica", "Suporte inicial"] },
